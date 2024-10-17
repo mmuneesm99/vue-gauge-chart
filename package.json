@@ -1,15 +1,34 @@
 {
   "name": "vue-gauge-chart",
   "version": "1.0.0",
+  "description": "A customizable Vue.js component for gauge charts.",
   "main": "index.js",
+  "module": "index.js",
   "scripts": {
+    "build": "vue-cli-service build --target lib --name vue-gauge-chart src/GaugeChart.vue",
+    "dev": "vue-cli-service serve",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
-  "description": "",
+  "keywords": [
+    "vue",
+    "gauge",
+    "chart",
+    "component",
+    "vue2"
+  ],
+  "author": "Muhammed Munees",
+  "license": "MIT",
   "dependencies": {
-    "vue": "^3.5.12"
+    "vue": "^2.x"
+  },
+  "peerDependencies": {
+    "vue": "^2.x"
+  },
+  "files": [
+    "index.js",
+    "src"
+  ],
+  "devDependencies": {
+    "@vue/cli-service": "^5.0.8"
   }
 }
