@@ -1,6 +1,6 @@
 {
   "name": "vue-gauge-chart",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "A customizable Vue.js component for gauge charts.",
   "main": "index.js",
   "module": "index.js",
