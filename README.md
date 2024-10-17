@@ -1,4 +1,4 @@
-﻿﻿# Vue Gauge Chart
+﻿# Vue Gauge Chart
 
 ![npm](https://img.shields.io/npm/v/vue-gauge-chart)
 ![license](https://img.shields.io/npm/l/vue-gauge-chart)
