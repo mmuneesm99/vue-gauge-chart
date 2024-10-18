@@ -5,9 +5,8 @@
 ![downloads](https://img.shields.io/npm/dw/vue-gauge-chart)
 ![Vue.js](https://img.shields.io/badge/Vue-2.x-green)
 ![Vue.js](https://img.shields.io/badge/Vue-3.x-green)
-
+![Img](https://miro.medium.com/v2/resize:fit:720/format:webp/1*8Vwf8i7dE6Hd0_D6EkO7VA.png)
 A Vue.js component for creating interactive gauge charts. This component allows you to visualize values in a circular format, making it ideal for dashboards and data visualization.
-
 ## Features
 
 - Customizable gauge ranges
